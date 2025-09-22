@@ -1,15 +1,5 @@
 package OOPs.src.Inheritance;
 
-/**
- * quest3.java
- *
- * Solutions for all the given inheritance problems combined into a single file.
- * Demonstrates: single, multilevel, hierarchical, and hybrid inheritance,
- * along with best practices for inheritance in Java.
- *
- * Compile: javac -d . quest3.java
- * Run: java OOPs.src.Inheritance.quest3
- */
 public class quest3 {
 
     /*
